@@ -1,0 +1,33 @@
+{
+  "name": "pbst-handbook",
+  "version": "1.0.1",
+  "description": "The unofficial PBST Handbook.",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/TCOOfficiall/pbst-handbook"
+  },
+  "keywords": [
+    "vuejs",
+    "vuepress",
+    "documentation",
+    "static-site-gen"
+  ],
+  "author": "Stefano Haagmans <stefano@stefanocoding.me>",
+  "license": "DTFYW",
+  "bugs": {
+    "url": "https://gitlab.com/TCOOfficiall/pbst-handbook/issues"
+  },
+  "homepage": "https://pbst.ga",
+  "dependencies": {
+    "yarn": "^1.21.1"
+  },
+  "devDependencies": {
+    "vuepress": "^1.2.0",
+    "vuepress-plugin-zooming": "^1.1.7"
+  }
+}
