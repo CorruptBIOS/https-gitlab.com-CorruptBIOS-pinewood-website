@@ -1,6 +1,8 @@
 ---
 home: true
 heroImage: /PBST-Logo.png
+actionText: Show PB History →
+actionLink: pb/history/
 ---
 
 

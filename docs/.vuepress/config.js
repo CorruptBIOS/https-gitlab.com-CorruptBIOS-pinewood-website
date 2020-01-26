@@ -8,6 +8,31 @@ module.exports = {
     docsDir: 'docs/',
     logo: '/PBST-Logo.png',
     smoothScroll: true,
+    nav: [{
+      text: 'Home',
+      link: '/'
+    },
+    {
+      text: 'History of PB',
+      link: '/pb/history/'
+    },
+    {
+      text: 'Pinewood',
+      items: [{
+          text: 'PBST-Handbook',
+          link: 'https://pet.pinewood-builders.ga'
+        },
+        {
+          text: 'TMS-Handbook',
+          link: 'https://tms.pinewood-builders.ga'
+        },
+        {
+          text: 'PET-Handbook',
+          link: 'https://pet.pinewood-builders.ga'
+        }
+      ]
+    }
+  ]
   },
   sidebarDepth: 2,
   plugins: [
