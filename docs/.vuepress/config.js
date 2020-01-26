@@ -3,7 +3,7 @@ module.exports = {
   description: 'The unofficiall Pinewood Builders website!',
   dest: 'public/',
   themeConfig: {
-    repo: 'https://gitlab.com/TCOOfficiall/PBST-Handbook',
+    repo: 'https://gitlab.com/pinewood-builders/pinewood-website',
     editLinks: true,
     docsDir: 'docs/',
     logo: '/PBST-Logo.png',
