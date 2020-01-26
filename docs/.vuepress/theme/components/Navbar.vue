@@ -107,7 +107,7 @@ $navbar-horizontal-padding = 1.5rem
   .links
     padding-left 1.5rem
     box-sizing border-box
-    background-color #214eb3
+    background-color #0b78eb
     white-space nowrap
     font-size 0.9rem
     position absolute
