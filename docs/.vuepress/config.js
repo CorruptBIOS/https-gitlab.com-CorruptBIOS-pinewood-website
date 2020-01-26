@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Pinewood Builders',
-  description: 'The unofficiall Pinewood Builders website!',
+  description: 'The unofficial Pinewood Builders website!',
   dest: 'public/',
   themeConfig: {
     repo: 'https://gitlab.com/pinewood-builders/pinewood-website',
