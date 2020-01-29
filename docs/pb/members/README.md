@@ -8,17 +8,17 @@ sidebar: auto
 ## Owner
 Diddleshot (Of course PIA) (``390939``)
 
-![image](https://www.roblox.com/outfit-thumbnail/image?userOutfitId=390939&width=420&height=420&format=png =200x)
+![image](https://tr.rbxcdn.com/737167039685bd7f6e8eb97a13847357/352/352/Avatar/Png =200x)
 
 ## Facilitators
 Irreflexive (Also PIA) (``51691706``)
 
-![image](https://www.roblox.com/outfit-thumbnail/image?userOutfitId=51691706&width=420&height=420&format=png =200x)
+![image](https://tr.rbxcdn.com/a4dab4a6711db81a13038f763821ce18/352/352/Avatar/Png =200x)
 
 ## PIA
 TenX29 (``54188452``)
 
-![image](https://www.roblox.com/outfit-thumbnail/image?userOutfitId=54188452&width=420&height=420&format=png =200x)
+![image](https://tr.rbxcdn.com/2a61143bb5e2a39c0efb0b209fcd7672/352/352/Avatar/Png =200x)
 
 Erika1942 (``8478324``)
 
