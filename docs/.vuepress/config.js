@@ -35,6 +35,12 @@ module.exports = {
   ]
   },
   sidebarDepth: 2,
+  markdown: {
+    linkify: true,
+    extendMarkdown: md => {
+      md.use(require('markdown-it-imsize'));
+    },
+  },
   plugins: [
     [
       'vuepress-plugin-zooming',
