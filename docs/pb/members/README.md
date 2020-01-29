@@ -3,14 +3,14 @@ sidebar: auto
 ---
 <center>
 
-# The special one's
+# The special ones
 
 ## Owner
 Diddleshot (Of course PIA) (``390939``)
 
 ![image](https://www.roblox.com/outfit-thumbnail/image?userOutfitId=390939&width=420&height=420&format=png =200x)
 
-## Facilitator's
+## Facilitators
 Irreflexive (Also PIA) (``51691706``)
 
 ![image](https://www.roblox.com/outfit-thumbnail/image?userOutfitId=51691706&width=420&height=420&format=png =200x)
