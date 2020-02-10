@@ -7,7 +7,7 @@
       class="home-link"
     >
       <img
-        class="logo"
+        class="logo circular--square"
         v-if="$site.themeConfig.logo"
         :src="$withBase($site.themeConfig.logo)"
         :alt="$siteTitle"
