@@ -20,15 +20,15 @@ module.exports = {
       text: 'Pinewood',
       items: [{
           text: 'PBST-Handbook',
-          link: 'https://pet.pinewood-builders.ga'
+          link: 'https://pet.pinewood-builders.com'
         },
         {
           text: 'TMS-Handbook',
-          link: 'https://tms.pinewood-builders.ga'
+          link: 'https://tms.pinewood-builders.com'
         },
         {
           text: 'PET-Handbook',
-          link: 'https://pet.pinewood-builders.ga'
+          link: 'https://pet.pinewood-builders.com'
         }
       ]
     }
