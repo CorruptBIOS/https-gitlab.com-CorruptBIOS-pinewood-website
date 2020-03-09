@@ -20,7 +20,7 @@ module.exports = {
       text: 'Pinewood',
       items: [{
           text: 'PBST-Handbook',
-          link: 'https://pet.pinewood-builders.com'
+          link: 'https://pbst.pinewood-builders.com'
         },
         {
           text: 'TMS-Handbook',
