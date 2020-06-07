@@ -1,8 +1,6 @@
 ---
 home: true
-heroImage: /PBST-Logo.png
-actionText: Show PB History →
-actionLink: pb/history/
+heroImage: /PB-Logo.png
 ---
 
 
@@ -21,7 +19,7 @@ actionLink: pb/history/
   </div>
   <div class="column">
     <a href="https://PET.pinewood-builders.com/">
-      <img src="https://cdn.discordapp.com/icons/436670173777362944/cfa1be390c7b1b3b48187e3c60be852e.png?size=256"
+      <img src="https://cdn.discordapp.com/icons/436670173777362944/9a6c964320e461e060b483e733b8dfbb.png?size=256"
         style="border-radius: 50%;">
       <center>
         <p>PET</p>
@@ -30,7 +28,7 @@ actionLink: pb/history/
   </div>
   <div class="column">
     <a href="https://tms.pinewood-builders.com/">
-      <img src="https://cdn.discordapp.com/icons/572104809973415943/0fcbe0e6069f7f3eba4be381f3aec08a.png?size=256"
+      <img src="https://cdn.discordapp.com/icons/572104809973415943/1517501cce35bd409af1a079df69194e.png?size=256"
         style="border-radius: 50%;">
       <center>
         <p>TMS</p>

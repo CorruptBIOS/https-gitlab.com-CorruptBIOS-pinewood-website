@@ -53,5 +53,11 @@ module.exports = {
         },
       },
     ],
+    [
+      '@vuepress/google-analytics',
+      {
+        'ga': 'UA-168777162-1' // UA-00000000-0
+      }
+    ]
   ],
 }

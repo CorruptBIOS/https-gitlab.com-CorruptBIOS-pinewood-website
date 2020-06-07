@@ -24,6 +24,7 @@
   },
   "homepage": "https://pinewood-builders.com",
   "dependencies": {
+    "@vuepress/plugin-google-analytics": "^1.5.0",
     "yarn": "^1.21.1"
   },
   "devDependencies": {
