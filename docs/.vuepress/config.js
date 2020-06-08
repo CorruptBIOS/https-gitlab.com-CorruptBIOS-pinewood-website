@@ -1,4 +1,4 @@
-module.exports = {
+module.exports = ctx => ({
   title: 'Pinewood Builders',
   description: 'The unofficial Pinewood Builders website!',
   dest: 'public/',
@@ -8,6 +8,10 @@ module.exports = {
     docsDir: 'docs/',
     logo: '/PBST-Logo.png',
     smoothScroll: true,
+    algolia: ctx.isProd ? ({
+      apiKey: '857a996795096390eefa22b6eeaf893d',
+      indexName: 'pinewood-builders'
+  }) : null,
     nav: [{
       text: 'Home',
       link: '/'
@@ -60,4 +64,4 @@ module.exports = {
       }
     ]
   ],
-}
+})
