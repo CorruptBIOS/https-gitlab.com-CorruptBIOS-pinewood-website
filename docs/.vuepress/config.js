@@ -6,7 +6,7 @@ module.exports = ctx => ({
     repo: 'https://gitlab.com/pinewood-builders/pinewood-website',
     editLinks: true,
     docsDir: 'docs/',
-    logo: '/PBST-Logo.png',
+    logo: '/PB-Logo.png',
     smoothScroll: true,
     algolia: ctx.isProd ? ({
       apiKey: '857a996795096390eefa22b6eeaf893d',
