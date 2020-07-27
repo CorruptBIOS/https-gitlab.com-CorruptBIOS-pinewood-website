@@ -10,7 +10,7 @@ heroImage: /PB-Logo.png
 <div class="row">
   <div class="column">
     <a href="https://pbst.pinewood-builders.com/">
-      <img src="https://cdn.discordapp.com/icons/438134543837560832/cb1a69536d4b07441cdf098dac5b7f75.png?size=256"
+      <img src="https://cdn.discordapp.com/icons/438134543837560832/f862127a278d9de71c99279f78f51999.png?size=256"
         style="border-radius: 50%;">
       <center>
         <p>PBST</p>
