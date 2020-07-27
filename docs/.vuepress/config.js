@@ -17,10 +17,6 @@ module.exports = ctx => ({
       link: '/'
     },
     {
-      text: 'History of PB',
-      link: '/pb/history/'
-    },
-    {
       text: 'Pinewood',
       items: [{
           text: 'PBST-Handbook',
@@ -35,28 +31,42 @@ module.exports = ctx => ({
           link: 'https://pet.pinewood-builders.com'
         }
       ]
+    },
+    {
+      text: 'Discords',
+      items: [{
+          text: 'PB',
+          link: 'https://discord.gg/RHWxvhc'
+        },{
+          text: 'PBST',
+          link: 'https://discord.gg/DDUzTwM'
+        },
+        {
+          text: 'TMS',
+          link: 'https://discord.gg/3axZ5tb'
+        },
+        {
+          text: 'PET',
+          link: 'https://discord.gg/t4KBPkM'
+        },{
+          text: 'PBA',
+          link: 'https://discord.gg/MVAcxTS'
+        },{
+          text: 'PBM',
+          link: 'https://discord.gg/yTVFKne'
+        },{
+          text: 'MM',
+          link: 'https://discord.gg/EjBYFCd'
+        },{
+          text: 'PBQA',
+          link: 'https://discord.gg/6xwcuRh'
+        },
+]
     }
   ]
   },
-  sidebarDepth: 2,
-  markdown: {
-    linkify: true,
-    extendMarkdown: md => {
-      md.use(require('markdown-it-imsize'));
-    },
-  },
+  sidebarDepth: 3,
   plugins: [
-    [
-      'vuepress-plugin-zooming',
-      {
-        selector: '.theme-default-content img.zooming',
-        delay: 1000,
-        options: {
-          bgColor: 'white',
-          zIndex: 10000,
-        },
-      },
-    ],
     [
       '@vuepress/google-analytics',
       {
