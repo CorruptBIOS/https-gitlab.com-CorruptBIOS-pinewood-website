@@ -18,8 +18,8 @@ heroImage: /PB-Logo.png
     </a>
   </div>
   <div class="column">
-    <a href="https://PET.pinewood-builders.com/">
-      <img src="https://cdn.discordapp.com/icons/436670173777362944/9a6c964320e461e060b483e733b8dfbb.png?size=256"
+    <a href="https://pet.pinewood-builders.com/">
+      <img src="https://cdn.discordapp.com/icons/436670173777362944/be5b5b9018c837154a735844507c86a1.png?size=256"
         style="border-radius: 50%;">
       <center>
         <p>PET</p>
