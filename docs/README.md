@@ -45,7 +45,7 @@ heroImage: /PB-Logo.png
 </div>
 <div>
   <a href="https://www.jetbrains.com/?from=Pinewood-Builders">
-    <img src="jetbrains.png" />
+    <img src="jetbrains.png" width="150"/>
   </a>
 </div>
 </center>
