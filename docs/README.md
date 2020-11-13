@@ -43,4 +43,9 @@ heroImage: /PB-Logo.png
     <img src="https://www.netlify.com/img/global/badges/netlify-color-accent.svg" />
   </a>
 </div>
+<div>
+  <a href="https://www.jetbrains.com/?from=Pinewood-Builders">
+    <img src="jetbrains.png" />
+  </a>
+</div>
 </center>
