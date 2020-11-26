@@ -4,9 +4,6 @@ heroImage: /PB-Logo.png
 ---
 
 
-
-
-
 <div class="row">
   <div class="column">
     <a href="https://pbst.pinewood-builders.com/">
