@@ -23,15 +23,15 @@ module.exports = ctx => ({
         link: 'https://pinewood-builders.com'
       },
         {
-          text: 'PBST-Handbook',
+          text: 'PBST Handbook',
           link: 'https://pbst.pinewood-builders.com'
         },
         {
-          text: 'TMS-Handbook',
+          text: 'TMS Handbook',
           link: 'https://tms.pinewood-builders.com'
         },
         {
-          text: 'PET-Handbook',
+          text: 'PET Handbook',
           link: 'https://pet.pinewood-builders.com'
         }
       ]
