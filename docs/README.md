@@ -45,10 +45,9 @@ heroImage: /PB-Logo.png
 <div class="row">
    <h2 style="color: #fff; text-align: center;">Subdivisions</h2>
    <div class="column">
-      <a href="https://www.roblox.com/groups/645836/Pinewood-Builders-Security-Team#!/about">
-         <img src="https://cdn.discordapp.com/icons/438134543837560832/f862127a278d9de71c99279f78f51999.png?size=256"
-            style="border-radius: 50%;">
-         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Security Team (PBST)</p>
+      <a href="https://www.roblox.com/groups/4032816/Pinewood-Builders-Media#!/about">
+         <img src="https://cdn.discordapp.com/icons/498476405160673286/25f5b484e7b1e0b69ff997043400eba6.webp?size=256" style="width: 256px; border-radius: 50%;">
+         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Media (PBM) </p>
       </a>
    </div>
    <div class="column">
@@ -59,9 +58,10 @@ heroImage: /PB-Logo.png
       </a>
    </div>
    <div class="column">
-      <a href="https://www.roblox.com/groups/4032816/Pinewood-Builders-Media#!/about">
-         <img src="https://cdn.discordapp.com/icons/498476405160673286/25f5b484e7b1e0b69ff997043400eba6.webp?size=256" style="width: 256px; border-radius: 50%;">
-         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Media (PBM) </p>
+      <a href="https://www.roblox.com/groups/645836/Pinewood-Builders-Security-Team#!/about">
+         <img src="https://cdn.discordapp.com/icons/438134543837560832/f862127a278d9de71c99279f78f51999.png?size=256"
+            style="border-radius: 50%;">
+         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Security Team (PBST)</p>
       </a>
    </div>
    <div class="column">
