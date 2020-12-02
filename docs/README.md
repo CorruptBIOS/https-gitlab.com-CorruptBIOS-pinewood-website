@@ -61,7 +61,7 @@ heroImage: /PB-Logo.png
    <div class="column">
       <a href="https://www.roblox.com/groups/4032816/Pinewood-Builders-Media#!/about">
          <img src="https://cdn.discordapp.com/icons/498476405160673286/25f5b484e7b1e0b69ff997043400eba6.webp?size=256" style="width: 256px; border-radius: 50%;">
-         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Quality Assurance (PBQA)</p>
+         <p style="text-align: center; padding-right: 19px;">Pinewood Builders Media (PBM)</p>
       </a>
    </div>
    <div class="column">
