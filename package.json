@@ -1,7 +1,7 @@
 {
-  "name": "pbst-handbook",
+  "name": "pinewood-website",
   "version": "1.0.1",
-  "description": "The unofficial PBST Handbook.",
+  "description": "The unofficial Pinewood Builders Website.",
   "main": "index.js",
   "scripts": {
     "docs:dev": "vuepress dev docs",
