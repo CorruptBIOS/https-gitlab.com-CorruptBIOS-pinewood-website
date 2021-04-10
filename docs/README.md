@@ -46,51 +46,51 @@ heroImage: /PB-Logo.png
    <h2 style="color: #fff; text-align: center;">Subdivisions</h2>
    <div class="column">
       <a href="https://www.roblox.com/groups/4032816/Pinewood-Builders-Media#!/about">
-         <img src="https://cdn.discordapp.com/icons/498476405160673286/1f532022da451964d4f0e3b102866b3f.png?size=256" style="width: 256px; border-radius: 50%;">
+         <img src="/PBM-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">Pinewood Builders Media (PBM) </p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/2593707/Pinewood-Emergency-Team#!/about">
-         <img src="https://cdn.discordapp.com/icons/436670173777362944/4978b5a6a00cca424712e64d7cf84bbd.png?size=256"
-            style="border-radius: 50%;">
+         <img src="/PET-Logo.png"
+            style="border-radius: 50%; width: 256px">
          <p style="text-align: center; padding-right: 19px;">Pinewood Emergency Team (PET)</p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/645836/Pinewood-Builders-Security-Team#!/about">
-         <img src="https://gitlab.com/pinewood-builders/handbooks/pbst/pbst-handbook/-/raw/develop/docs/.vuepress/public/PBST-Logo.png"
+         <img src="/PBST-Logo.png"
             style="border-radius: 50%; width: 256px;">
          <p style="text-align: center; padding-right: 19px;">Pinewood Builders Security Team (PBST)</p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/4890641/The-Mayhem-Syndicate#!/about">
-         <img src="https://gitlab.com/pinewood-builders/handbooks/tms/tms-handbook/-/raw/develop/docs/.vuepress/public/TMS-Logo.png" style="width: 256px; border-radius: 50%;">
+         <img src="/TMS-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px">The Mayhem Syndicate (TMS)</p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/926624/Pinewood-Builders-Aerospace#!/about">
-         <img src="https://cdn.discordapp.com/icons/495673170565791754/83e27b6ff659cf3bd95c01ec9c5cd90a.webp?size=256" style="width: 256px; border-radius: 50%;">
+         <img src="/PBA-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">Pinewood Builders Aerospace (PBA)</p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/4543796/Pinewood-Builders-Quality-Assurance#!/about">
-         <img src="https://cdn.discordapp.com/icons/514595433176236078/194b0cc12d77003b8e669489c761b2cc.webp?size=256" style="width: 256px; border-radius: 50%;">
+         <img src="/PBQA-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">Pinewood Builders Quality Assurance (PBQA)</p>
        </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/1062766/Mega-Miners#!/about">
-         <img src="https://cdn.discordapp.com/icons/505828893576527892/49af63a1cacabeb6c458827da1d3459e.webp?size=256" style="width: 256px; border-radius: 50%;">
+         <img src="/MM-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">Mega Miners (MM)</p>
       </a>
    </div>
    <div class="column">
       <a href="https://www.roblox.com/groups/1179443/XYLEM-Technologies#!/about">
-         <img src="https://cdn.discordapp.com/icons/498992741846351892/dd21a4409dbe35a41967be4714a4224a.png?size=256" style="width: 256px; border-radius: 50%;">
+         <img src="/XYLEM-Logo.png" style="width: 256px; border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">XYLEM Technologies</p>
       </a>
    </div>
@@ -105,21 +105,21 @@ heroImage: /PB-Logo.png
    <h2 style="color: #fff; text-align: center;">Handbooks</h2>
    <div class="column">
       <a href="https://pbst.pinewood-builders.com/">
-         <img src="https://gitlab.com/pinewood-builders/handbooks/pbst/pbst-handbook/-/raw/develop/docs/.vuepress/public/PBST-Logo.png"
+         <img src="/PBST-Logo.png"
             style="border-radius: 50%; width: 256px;">
          <p style="text-align: center; padding-right: 19px;">PBST</p>
       </a>
    </div>
    <div class="column">
       <a href="https://pet.pinewood-builders.com/">
-         <img src="https://gitlab.com/pinewood-builders/handbooks/pet/pet-handbook/-/raw/develop/docs/.vuepress/public/PET-Logo.png"
+         <img src="/PET-Logo.png"
             style="border-radius: 50%; width: 256px;">
          <p style="text-align: center; padding-right: 19px;">PET</p>
       </a>
    </div>
    <div class="column">
       <a href="https://tms.pinewood-builders.com/">
-         <img src="https://gitlab.com/pinewood-builders/handbooks/tms/tms-handbook/-/raw/develop/docs/.vuepress/public/TMS-Logo.png"
+         <img src="/TMS-Logo.png"
             style="border-radius: 50%;">
          <p style="text-align: center; padding-right: 19px;">TMS</p>
       </a>
